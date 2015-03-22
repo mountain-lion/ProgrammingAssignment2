@@ -65,7 +65,9 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-
+# This function -- cacheSolve -- just calls makeCacheMatrix function which does
+# all the validation and returns an inverted matrix of X if its aleady not present
+# in the global cache_of_inverts list
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
       return (makeCacheMatrix(x))
