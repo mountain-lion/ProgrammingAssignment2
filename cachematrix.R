@@ -1,3 +1,8 @@
+# This file is authored by Sujoy Sarkar (s.sujoy@gmail.com) -- git alias
+# 'mountain-lion' for the sole purpose of completing Assignment 2 of Coursera Data
+# Science Track on R Programing. Furthermore this source file is provided for peer evaluation
+# as is and does not come with any warranty, whatsover
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
